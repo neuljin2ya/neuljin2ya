@@ -16,7 +16,7 @@
 <br>
 
 <div align="center">
-    <h2>🛠️ Tech Stacks</h2>
+    <h2 style="border-bottom:1px solid #d8dee4;">🛠️ Tech Stacks</h2>
 </div>
 
 <!-- Languages -->
@@ -35,11 +35,10 @@
 
 <!-- Frameworks -->
 <div align="center">
-    <h3>⚛️ Frameworks & Libraries</h3>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
+    <h3>⚛️ Frameworks</h3>
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
-    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=OpenAI&logoColor=white">
+    <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=Apple&logoColor=white">
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
 </div>
 
 <br>
@@ -47,10 +46,10 @@
 <!-- Tools -->
 <div align="center">
     <h3>🛠 Tools & Platforms</h3>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
-    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
 </div>

@@ -121,6 +121,7 @@
   - 필터버블 문제 정의 및 서비스 컨셉 기획  
   - Flutter 기반 앱 화면 및 사용자 흐름 구현
    ---
+
   
 ### 📂 Other Projects
 
@@ -132,14 +133,24 @@
 
 <br><br>
 
+<br><br>
+
 <div align="center">
     <h2 style="border-bottom:1px solid #d8dee4;">🚀 Experience</h2>
 </div>
 
-- 멋쟁이사자처럼 가천대학교 14기 대표  
-- Apple Developer Academy (POSTECH) Foundation Program 참여  
-- AI 프로그래밍응용 TA  
+- **멋쟁이사자처럼 가천대학교 14기 대표** | `2026.02. - 현재`  
+  - 동아리 운영 및 커리큘럼 기획 · 진행  
+  - 팀 프로젝트 및 해커톤 기획 및 리딩  
+  - 개발 스터디 운영 및 구성원 성장 지원  
 
+- **Apple Developer Academy @POSTECH Foundation Program** | `2026.03. - 2026.04.`  
+  - 사용자 중심 앱 기획 및 iOS 개발 경험  
+  - 협업 기반 문제 해결 및 서비스 설계 경험  
+
+- **AI 프로그래밍응용 TA** | `2024.03. - 2025.12.`  
+  - 수업 보조 및 실습 코드 리뷰 지원  
+  - Python 및 엑셀 학습 지원  
 <br><br>
 
 <div align="center">

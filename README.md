@@ -60,17 +60,18 @@
     <h2 style="border-bottom:1px solid #d8dee4;">📱 Projects</h2>
 </div>
 
-<br>
-
-### 📱 [Palearn](https://github.com/neuljin2ya/Palearn-app) | 2025 ~
+### ✏️ [Palearn](https://github.com/neuljin2ya/Palearn-app) | 2025 ~
 
 > 학습 계획을 쉽게 세우고, 실행까지 이어지도록 돕는 AI 기반 학습 관리 앱
 
 <br>
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
 
-- **역할**: 앱 기획 및 프론트 개발   
+
+- **역할**: 앱 기획 · UI/UX 디자인 · 프론트 개발   
 - **성과**: [2025-2] 진로탐색학점제 P-커리어캐치II 우수 수료자  
 - **배포 링크**: [바로가기](https://palearn-final-app-3.vercel.app)  
 - **담당 업무**:  
@@ -82,7 +83,7 @@
   - FastAPI 기반 인증 및 데이터 API 연동  
   ---
 
-### 🤝 Matcher(https://github.com/neuljin2ya/matcher.git)
+### 🤝 [Matcher](https://github.com/neuljin2ya/matcher.git) | 2025 ~
 > 유튜버와 소상공인을 연결하는 데이터 기반 매칭 서비스
 
 <br>
@@ -91,8 +92,9 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
 
-- **역할**: 서비스 기획 · 앱 개발 · 백엔드 개발 · 데이터/AI 처리   
+- **역할**: 서비스 기획 · 앱 개발 · UI/UX 디자인 · 백엔드 개발 · 데이터/AI 처리   
 - **성과**: 제13회 빅콘테스트 2025 AI·데이터 경진대회 공모전 제출  
 - **담당 업무** :
   - Flutter 기반 앱 UI 및 사용자 흐름 설계  
@@ -101,8 +103,21 @@
   - 유튜버 채널 데이터 수집 및 구독자 특성 분석  
   - 사용자 데이터와 채널 데이터를 연결하는 매칭 로직 설계  
   - LLM(Gemini)을 활용한 데이터 해석 및 추천 로직 구현  
-  
+   ---
 
+  ### 🗺️ Mapin | 2025 ~
+> 알고리즘이 만든 필터버블을 깨고, 콘텐츠 소비를 시각화하여 새로운 관점을 제시하는 앱
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white">
+
+- **역할**:  앱 기획 및 프론트 개발  
+- **성과**:
+  - Google Play Store 출시 ([다운로드](https://play.google.com/store/apps/details?id=com.mapin.service&pli=1))  
+  - App Store 출시 ([다운로드](https://apps.apple.com/](https://apps.apple.com/kr/app/mapin/id6761400852))  
+- **담당 업무** :
+  - 필터버블 문제 정의 및 서비스 컨셉 기획  
+  - Flutter 기반 앱 화면 및 사용자 흐름 구현
    ---
   
 ### 🧠 FocusBraker
@@ -113,14 +128,6 @@
 - 사용자 터치를 회피하는 인터랙션 구현  
 - 세션 종료 후 리포트 화면 제공  
 
----
-
-### 🤝 Matcher
-> 유튜버와 소상공인을 연결하는 데이터 기반 매칭 서비스
-
-- 사용자 및 채널 데이터 기반 매칭 로직 설계  
-- 연령대 및 사용자 특성 분석  
-- LLM 활용 데이터 처리  
 
 <br><br>
 

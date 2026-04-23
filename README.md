@@ -65,11 +65,11 @@
 > 학습 계획을 쉽게 세우고, 실행까지 이어지도록 돕는 AI 기반 학습 관리 앱
 
 <br>
-
+<p>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white">
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
-
+</p>
 
 - **역할**: 앱 기획 · UI/UX 디자인 · 프론트 개발   
 - **성과**: [2025-2] 진로탐색학점제 P-커리어캐치II 우수 수료자  
@@ -87,13 +87,13 @@
 > 유튜버와 소상공인을 연결하는 데이터 기반 매칭 서비스
 
 <br>
-
+<p>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
-
+</p>
 - **역할**: 서비스 기획 · 앱 개발 · UI/UX 디자인 · 백엔드 개발 · 데이터/AI 처리   
 - **성과**: 제13회 빅콘테스트 2025 AI·데이터 경진대회 공모전 제출  
 - **담당 업무** :
@@ -107,10 +107,10 @@
 
   ### 🗺️ Mapin | 2025 ~
 > 알고리즘이 만든 필터버블을 깨고, 콘텐츠 소비를 시각화하여 새로운 관점을 제시하는 앱
-
+<p>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white">
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white">
-
+</p>
 - **역할**:  앱 기획 및 프론트 개발  
 - **성과**:
   - Google Play Store 출시 ([다운로드](https://play.google.com/store/apps/details?id=com.mapin.service&pli=1))  

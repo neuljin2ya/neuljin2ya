@@ -97,7 +97,7 @@
   - FastAPI 기반 인증 및 데이터 API 연동  
   ---
 
-    ### 🤝 [Matcher](https://github.com/neuljin2ya/matcher.git) | 2025.09. - 2025.12.
+ ### 🤝 [Matcher](https://github.com/neuljin2ya/matcher.git) | 2025.09. - 2025.12.
 > 유튜버와 소상공인을 연결하는 데이터 기반 매칭 서비스
 
 <br>
@@ -120,7 +120,7 @@
   - LLM(Gemini)을 활용한 데이터 해석 및 추천 로직 구현  
    ---
 
-  ### 🗺️ Mapin | 2026 ~
+ ### 🗺️ Mapin | 2026 ~
 > 알고리즘이 만든 필터버블을 깨고, 콘텐츠 소비를 시각화하여 새로운 관점을 제시하는 앱
 <p>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white">

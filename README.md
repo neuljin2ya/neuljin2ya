@@ -59,11 +59,11 @@
 <div>
     <h2 style="border-bottom:1px solid #d8dee4;">📱 Projects</h2>
 </div>
-<p>
-    ### ✏️ [Palearn](https://github.com/neuljin2ya/Palearn-app) | 2025.08. - 2025.12.
+
+ ### ✏️ [Palearn](https://github.com/neuljin2ya/Palearn-app) | 2025.08. - 2025.12.
 
 > 학습 계획을 쉽게 세우고, 실행까지 이어지도록 돕는 AI 기반 학습 관리 앱
-</p>
+
 <br>
 <p>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white">

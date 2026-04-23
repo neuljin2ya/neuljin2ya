@@ -7,13 +7,13 @@
 <p align="center"> 
         👋 Hi there! I'm Eunjin Han<br>
         🖥️ I build apps that make everyday life easier <br><br>
-
+</p>
         안녕하세요! 도전 속에서 배우고 끝까지 해내는 한은진입니다.<br>
         사용자와 가장 가까운 지점에서 도움을 줄 수 있는 앱을 만드는 것에 매력을 느끼고 있습니다.<br>
         Flutter와 Swift를 기반으로 직접 서비스를 구현하며, 사용자 흐름을 고려한 UI/UX 설계에 집중하고 있습니다.<br>
         팀 프로젝트를 통해 협업하고 문제를 해결하는 과정에서 성장하고 있습니다.<br>
         앞으로도 더 나은 사용자 경험을 만드는 개발자로 성장하고 싶습니다 🚀
-</p>
+
 
 <br>
 

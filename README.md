@@ -94,6 +94,7 @@
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
 </p>
+
 - **역할**: 서비스 기획 · 앱 개발 · UI/UX 디자인 · 백엔드 개발 · 데이터/AI 처리   
 - **성과**: 제13회 빅콘테스트 2025 AI·데이터 경진대회 공모전 제출  
 - **담당 업무** :

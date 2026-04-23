@@ -63,13 +63,26 @@
 
 <br>
 
-### 📊 Palearn
-> 학습 계획을 쉽게 만들고 실천을 돕는 앱
+### 📱 [Palearn][https://palearn-final-app-3.vercel.app](https://github.com/neuljin2ya/Palearn-app) | 2025 ~
 
-- Daily / Weekly / Monthly 계획 관리 기능  
-- 학습 진행률 시각화  
-- 친구 기반 동기부여 시스템 구현
+> 학습 계획을 쉽게 세우고, 실행까지 이어지도록 돕는 AI 기반 학습 관리 앱
 
+<br>
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white">
+
+<br><br>
+
+- **역할**: 앱 기획 및 프론트 개발   
+- **성과**: [2025-2] 진로탐색학점제 P-커리어캐치II 우수 수료자  
+- **배포 링크**: [바로가기](https://palearn-final-app-3.vercel.app)  
+- **담당 업무**:  
+  - 단계별 선택 기반 학습 계획 생성 UI 설계 (입력 부담 최소화)  
+  - Daily / Weekly / Monthly 단위 계획 관리 기능 구현  
+  - 학습 진행률 시각화 (퍼센트, 완료 개수 등)  
+  - 캘린더 기반 학습 기록 히스토리 UI 구현  
+  - 친구 코드 기반 소셜 기능 (진행 상황 공유)  
+  - FastAPI 기반 인증 및 데이터 API 연동  
   ---
 
 ### 🤝 Matcher

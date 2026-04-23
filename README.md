@@ -69,8 +69,6 @@
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white">
 
-<br><br>
-
 - **역할**: 앱 기획 및 프론트 개발   
 - **성과**: [2025-2] 진로탐색학점제 P-커리어캐치II 우수 수료자  
 - **배포 링크**: [바로가기](https://palearn-final-app-3.vercel.app)  

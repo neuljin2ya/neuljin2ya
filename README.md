@@ -116,8 +116,8 @@
 - **역할**:  앱 기획 및 프론트 개발  
 - **성과**:
   - Google Play Store 출시 ([다운로드](https://play.google.com/store/apps/details?id=com.mapin.service&pli=1))  
-  - App Store 출시 ([다운로드](https://apps.apple.com/](https://apps.apple.com/kr/app/mapin/id6761400852)))
-- **담당 업무** :
+  - App Store 출시 ([다운로드](https://apps.apple.com/kr/app/mapin/id6761400852))
+- **담당 업무**:
   - 필터버블 문제 정의 및 서비스 컨셉 기획  
   - Flutter 기반 앱 화면 및 사용자 흐름 구현
    ---

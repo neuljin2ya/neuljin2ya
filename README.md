@@ -59,8 +59,7 @@
 <div>
     <h2 style="border-bottom:1px solid #d8dee4;">📱 Projects</h2>
 </div>
-
-### ✏️ [Palearn](https://github.com/neuljin2ya/Palearn-app) | 2025.08. - 2025.12.
+    ### ✏️ [Palearn](https://github.com/neuljin2ya/Palearn-app) | 2025.08. - 2025.12.
 
 > 학습 계획을 쉽게 세우고, 실행까지 이어지도록 돕는 AI 기반 학습 관리 앱
 
@@ -83,7 +82,7 @@
   - FastAPI 기반 인증 및 데이터 API 연동  
   ---
 
-### 🤝 [Matcher](https://github.com/neuljin2ya/matcher.git) | 2025.09. - 2025.12.
+    ### 🤝 [Matcher](https://github.com/neuljin2ya/matcher.git) | 2025.09. - 2025.12.
 > 유튜버와 소상공인을 연결하는 데이터 기반 매칭 서비스
 
 <br>

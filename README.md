@@ -1,7 +1,8 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=soft&color=fcddea&height=240&text=Hello,%20I'm%20Eunjin%20Han&animation=fadeIn&fontColor=ffffff&fontSize=70" />
 </div>
-
+<br>
+<br>
 <div align="center"> 
     <div style="font-weight:700; font-size:15px; text-align:center; color:#282d33;">
         👋 Hi there! I'm Eunjin Han<br>

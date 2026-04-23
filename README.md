@@ -106,7 +106,7 @@
   - LLM(Gemini)을 활용한 데이터 해석 및 추천 로직 구현  
    ---
 
-  ### 🗺️ Mapin | 2025 ~
+  ### 🗺️ Mapin | 2026 ~
 > 알고리즘이 만든 필터버블을 깨고, 콘텐츠 소비를 시각화하여 새로운 관점을 제시하는 앱
 <p>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white">

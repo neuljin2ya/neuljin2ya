@@ -18,12 +18,12 @@
 </p>
 <br>
 
-<div align="center">
+<div>
     <h2 style="border-bottom:1px solid #d8dee4;">🛠️ Tech Stacks</h2>
 </div>
 
 <!-- Languages -->
-<div align="center">
+<div>
     <h3>📚 Languages</h3>
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white">
     <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
@@ -34,7 +34,7 @@
 <br>
 
 <!-- Frameworks -->
-<div align="center">
+<div>
     <h3>⚛️ Frameworks</h3>
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
     <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=Apple&logoColor=white">
@@ -44,7 +44,7 @@
 <br>
 
 <!-- Tools -->
-<div align="center">
+<div>
     <h3>🛠 Tools & Platforms</h3>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
     <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white">
@@ -56,7 +56,7 @@
 
 <br><br>
 
-<div align="center">
+<div>
     <h2 style="border-bottom:1px solid #d8dee4;">📱 Projects</h2>
 </div>
 
@@ -74,7 +74,7 @@
 - **성과**: [2025-2] 진로탐색학점제 P-커리어캐치II 우수 수료자  
 - **배포 링크**: [바로가기](https://palearn-final-app-3.vercel.app)  
 - **담당 업무**:  
-  - 단계별 선택 기반 학습 계획 생성 UI 설계 (입력 부담 최소화)  
+  - 단계별 선택 기반 학습 계획 생성 UI 설계  
   - Daily / Weekly / Monthly 단위 계획 관리 기능 구현  
   - 학습 진행률 시각화 (퍼센트, 완료 개수 등)  
   - 캘린더 기반 학습 기록 히스토리 UI 구현  
@@ -82,12 +82,26 @@
   - FastAPI 기반 인증 및 데이터 API 연동  
   ---
 
-### 🤝 Matcher
+### 🤝 Matcher(https://github.com/neuljin2ya/matcher.git)
 > 유튜버와 소상공인을 연결하는 데이터 기반 매칭 서비스
 
-- 사용자 및 채널 데이터 기반 매칭 로직 설계  
-- 연령대 및 사용자 특성 분석  
-- LLM 활용 데이터 처리
+<br>
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white">
+
+- **역할**: 서비스 기획 · 앱 개발 · 백엔드 개발 · 데이터/AI 처리   
+- **성과**: 제13회 빅콘테스트 2025 AI·데이터 경진대회 공모전 제출  
+- **담당 업무** :
+  - Flutter 기반 앱 UI 및 사용자 흐름 설계  
+  - FastAPI 기반 API 서버 설계 및 데이터 연동  
+  - 소상공인 카드 사용 데이터를 기반으로 고객 연령대 분석  
+  - 유튜버 채널 데이터 수집 및 구독자 특성 분석  
+  - 사용자 데이터와 채널 데이터를 연결하는 매칭 로직 설계  
+  - LLM(Gemini)을 활용한 데이터 해석 및 추천 로직 구현  
+  
 
    ---
   

@@ -60,7 +60,7 @@
     <h2 style="border-bottom:1px solid #d8dee4;">📱 Projects</h2>
 </div>
 
-### ✏️ [Palearn](https://github.com/neuljin2ya/Palearn-app) | 2025 ~
+### ✏️ [Palearn](https://github.com/neuljin2ya/Palearn-app) | 2025.08. - 2025.12.
 
 > 학습 계획을 쉽게 세우고, 실행까지 이어지도록 돕는 AI 기반 학습 관리 앱
 
@@ -83,7 +83,7 @@
   - FastAPI 기반 인증 및 데이터 API 연동  
   ---
 
-### 🤝 [Matcher](https://github.com/neuljin2ya/matcher.git) | 2025 ~
+### 🤝 [Matcher](https://github.com/neuljin2ya/matcher.git) | 2025.09. - 2025.12.
 > 유튜버와 소상공인을 연결하는 데이터 기반 매칭 서비스
 
 <br>
@@ -122,13 +122,12 @@
   - Flutter 기반 앱 화면 및 사용자 흐름 구현
    ---
   
-### 🧠 FocusBraker
-> 공부 중 집중을 방해하는 요소를 활용한 오버레이 앱
+### 📂 Other Projects
 
-- Flutter 기반 오버레이 시스템 구현  
-- 화면 위에 머리카락, 먼지, 벌레 애니메이션 렌더링  
-- 사용자 터치를 회피하는 인터랙션 구현  
-- 세션 종료 후 리포트 화면 제공  
+| Project | 기간 | 담당 기술 | 성과 | 주요 기능 |
+| :--- | :---: | :--- | :--- | :--- |
+| **[PhoPo](https://github.com/neuljin2ya/PhoPo)** | `26.04.` | <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/> <img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-0A84FF?style=flat-square&logo=apple&logoColor=white"/><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"> | iOS 개인 프로젝트 | 위치 기반 추억 기록, 지도 하이라이트, 카드형 데이터 저장 |
+| **[FocusBraker](https://github.com/neuljin2ya/FocusBraker)** | `26.04.` | <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/> | 연합동아리 프로젝트 출품 | 오버레이 기반 집중 방해 인터랙션 및 세션 리포트 제공 |
 
 
 <br><br>

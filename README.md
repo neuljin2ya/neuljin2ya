@@ -4,7 +4,7 @@
 
 <br><br>
 
-<div> 
+<div align="center"> 
         👋 Hi there! I'm Eunjin Han<br>
         🖥️ I build apps that make everyday life easier <br><br>
 
@@ -61,7 +61,7 @@
 
 <br>
 
-### 📱 [Palearn](https://palearn-final-app-3.vercel.app](https://github.com/neuljin2ya/Palearn-app) | 2025 ~
+### 📱 [Palearn](https://github.com/neuljin2ya/Palearn-app) | 2025 ~
 
 > 학습 계획을 쉽게 세우고, 실행까지 이어지도록 돕는 AI 기반 학습 관리 앱
 

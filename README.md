@@ -16,10 +16,17 @@
         팀 프로젝트를 통해 협업하고 문제를 해결하는 과정에서 성장하고 있습니다.<br>
         앞으로도 더 나은 사용자 경험을 만드는 개발자로 성장하고 싶습니다 🚀
 </p>
-<br>
-  <a href="https://www.linkedin.com/in/neuljin2ya/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
-  <a href="mailto:eunjin5379@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://neuljin2ya.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
+<br><p align="center">
+  <a href="https://www.linkedin.com/in/neuljin2ya/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>&nbsp;&nbsp;
+  </a>
+  <a href="mailto:eunjin5379@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp;&nbsp;
+  </a>
+  <a href="https://neuljin2ya.tistory.com">
+    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/>
+  </a>
+</p>
 </div>
 <div>
     <h2 style="border-bottom:1px solid #d8dee4;">🛠️ Tech Stacks</h2>

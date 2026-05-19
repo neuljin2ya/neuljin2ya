@@ -143,6 +143,7 @@
 | :--- | :---: | :--- | :--- | :--- |
 | **[PhoPo](https://github.com/neuljin2ya/PhoPo)** | `26.04.` | <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/> <img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-0A84FF?style=flat-square&logo=apple&logoColor=white"/><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"> | iOS 개인 프로젝트 | 위치 기반 추억 기록, 지도 하이라이트, 카드형 데이터 저장 |
 | **[FocusBraker](https://github.com/neuljin2ya/FocusBraker)** | `26.04.` | <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/> | 연합동아리 프로젝트 출품 | 오버레이 기반 집중 방해 인터랙션 및 세션 리포트 제공 |
+| **[파쿠루트](https://github.com/neuljin2ya/NTeam_FrontEnd)** | `26.05.` | <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/> | 10th NE(O)RDINARY HACKATHON 대상 | 파쿠르 스팟 탐색, 난이도·환경 기반 장소 정보 공유, 실시간 상태 및 영상 업로드 기능 |
 
 
 <br><br>
@@ -151,6 +152,9 @@
     <h2 style="border-bottom:1px solid #d8dee4;">🚀 Experience</h2>
 </div>
 
+- **CMC(Central MakeUs Challenge) 19th Flutter ** | `2026.05. - 현재`  
+  - Flutter를 사용하여 수익형 앱 개발 및 출시
+    
 - **멋쟁이사자처럼 가천대학교 14기 대표** | `2026.02. - 현재`  
   - 동아리 운영 및 커리큘럼 기획 · 진행  
   - 팀 프로젝트 및 해커톤 기획 및 리딩  
@@ -160,7 +164,7 @@
   - 사용자 중심 앱 기획 및 iOS 개발 경험  
   - 협업 기반 문제 해결 및 서비스 설계 경험  
 
-- **AI기초교양 교과 수업 조교** | `2024.03. - 2025.12.`  
+- **AI 기초교양 교과 수업 조교** | `2024.03. - 2025.12.`  
   - 수업 보조 및 실습 코드 리뷰 지원  
   - Python 및 엑셀 학습 지원  
 <br><br>

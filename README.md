@@ -120,7 +120,7 @@
   - LLM(Gemini)을 활용한 데이터 해석 및 추천 로직 구현  
    ---
 
- ### 🗺️ Mapin | 2026 ~
+ ### 🗺️ Mapin | 2026.02. ~
 > 알고리즘이 만든 필터버블을 깨고, 콘텐츠 소비를 시각화하여 새로운 관점을 제시하는 앱
 <p>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white">
@@ -152,7 +152,7 @@
     <h2 style="border-bottom:1px solid #d8dee4;">🚀 Experience</h2>
 </div>
 
-- **CMC(Central MakeUs Challenge) 19th Flutter ** | `2026.05. - 현재`  
+- **CMC(Central MakeUs Challenge) 19th Flutter** | `2026.05. - 현재`  
   - Flutter를 사용하여 수익형 앱 개발 및 출시
     
 - **멋쟁이사자처럼 가천대학교 14기 대표** | `2026.02. - 현재`  

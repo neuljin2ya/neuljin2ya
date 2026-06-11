@@ -74,6 +74,47 @@
     <h2 style="border-bottom:1px solid #d8dee4;">📱 Projects</h2>
 </div>
 
+### 🗺️ Mapin | 2026.02. ~
+> 알고리즘이 만든 필터버블을 깨고, 콘텐츠 소비를 시각화하여 새로운 관점을 제시하는 앱
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white">
+</p>
+
+- **역할**:  앱 기획 및 프론트 개발  
+- **성과**:
+  - Google Play Store 출시 ([다운로드](https://play.google.com/store/apps/details?id=com.mapin.service&pli=1))  
+  - App Store 출시 ([다운로드](https://apps.apple.com/kr/app/mapin/id6761400852))
+- **담당 업무**:
+  - 필터버블 문제 정의 및 서비스 컨셉 기획  
+  - Flutter 기반 앱 화면 및 사용자 흐름 구현
+   ---
+  
+### 🔥 [Ember](https://github.com/neuljin2ya/ember-frontend) | 2026.03. - 2026.06.
+
+> 교환일기를 기반으로 사용자의 성향과 관계 형성 과정을 자연스럽게 연결하는 AI 소개팅 앱
+
+<br>
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
+</p>
+
+* **역할**: Flutter 프론트엔드 개발 · UI/UX 구현 · API 연동 · Android APK 빌드 및 iOS 실행 환경 구성
+* **성과**: [다운로드](APK_링크_넣기)
+* **담당 업무**:
+
+  * 서비스 아이디어 기획 및 핵심 기능 정의
+  * 사용자 흐름을 고려한 UI/UX 설계 및 화면 디자인
+  * Flutter 기반 모바일 앱 전체 프론트엔드 개발
+  * 일기 작성, AI 분석 결과, 매칭 및 교환일기 기능 구현
+  *  채팅, 알림, 마이페이지 등 주요 서비스 화면 개발
+  *   REST API 연동 및 데이터 처리 로직 구현
+  *   Android APK 빌드 및 iOS 실행 환경 구성 및 테스트
+
+  ---
+
  ### ✏️ [Palearn](https://github.com/Palearn-4-P-proj/Palearn-app) | 2025.08. - 2025.12.
 
 > 학습 계획을 쉽게 세우고, 실행까지 이어지도록 돕는 AI 기반 학습 관리 앱
@@ -118,22 +159,6 @@
   - 유튜버 채널 데이터 수집 및 구독자 특성 분석  
   - 사용자 데이터와 채널 데이터를 연결하는 매칭 로직 설계  
   - LLM(Gemini)을 활용한 데이터 해석 및 추천 로직 구현  
-   ---
-
- ### 🗺️ Mapin | 2026.02. ~
-> 알고리즘이 만든 필터버블을 깨고, 콘텐츠 소비를 시각화하여 새로운 관점을 제시하는 앱
-<p>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white">
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white">
-</p>
-
-- **역할**:  앱 기획 및 프론트 개발  
-- **성과**:
-  - Google Play Store 출시 ([다운로드](https://play.google.com/store/apps/details?id=com.mapin.service&pli=1))  
-  - App Store 출시 ([다운로드](https://apps.apple.com/kr/app/mapin/id6761400852))
-- **담당 업무**:
-  - 필터버블 문제 정의 및 서비스 컨셉 기획  
-  - Flutter 기반 앱 화면 및 사용자 흐름 구현
    ---
 
   

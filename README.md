@@ -138,34 +138,13 @@
   - FastAPI 기반 인증 및 데이터 API 연동  
   ---
 
- ### 🤝 [Matcher](https://github.com/neuljin2ya/matcher.git) | 2025.09. - 2025.12.
-> 유튜버와 소상공인을 연결하는 데이터 기반 매칭 서비스
-
-<br>
-<p>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
-</p>
-
-- **역할**: 서비스 기획 · 앱 개발 · UI/UX 디자인 · 백엔드 개발 · 데이터/AI 처리   
-- **성과**: [제13회 빅콘테스트 2025 AI·데이터 경진대회 공모전 제출](https://www.bigcontest.or.kr)
-- **담당 업무** :
-  - Flutter 기반 앱 UI 및 사용자 흐름 설계  
-  - FastAPI 기반 API 서버 설계 및 데이터 연동  
-  - 소상공인 카드 사용 데이터를 기반으로 고객 연령대 분석  
-  - 유튜버 채널 데이터 수집 및 구독자 특성 분석  
-  - 사용자 데이터와 채널 데이터를 연결하는 매칭 로직 설계  
-  - LLM(Gemini)을 활용한 데이터 해석 및 추천 로직 구현  
-   ---
-
   
 ### 📂 Other Projects
 
 | Project | 기간 | 담당 기술 | 성과 | 주요 기능 |
 | :--- | :---: | :--- | :--- | :--- |
+| **[Matcher](https://github.com/neuljin2ya/matcher.git)** | `25.09. - 25.12.` | <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img alt="Gemini" src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white"/> | [제13회 빅콘테스트 2025 AI·데이터 경진대회 공모전 제출](https://www.bigcontest.or.kr) | 소상공인 데이터와 유튜버 채널 데이터를 기반으로 한 AI 매칭 및 추천 |
+| **[PhoPo](https://github.com/neuljin2ya/PhoPo)** | `26.04.` | <img alt="Swift" src="htt
 | **[PhoPo](https://github.com/neuljin2ya/PhoPo)** | `26.04.` | <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/> <img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-0A84FF?style=flat-square&logo=apple&logoColor=white"/><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"> | iOS 개인 프로젝트 | 위치 기반 추억 기록, 지도 하이라이트, 카드형 데이터 저장 |
 | **[FocusBraker](https://github.com/neuljin2ya/FocusBraker)** | `26.04.` | <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/> | 연합동아리 프로젝트 출품 | 오버레이 기반 집중 방해 인터랙션 및 세션 리포트 제공 |
 | **[파쿠루트](https://github.com/neuljin2ya/NTeam_FrontEnd)** | `26.05.` | <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/> | 10th NE(O)RDINARY HACKATHON 대상 | 파쿠르 스팟 탐색, 난이도·환경 기반 장소 정보 공유, 실시간 상태 및 영상 업로드 기능 |

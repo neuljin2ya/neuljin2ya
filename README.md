@@ -101,7 +101,7 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
 </p>
 
-* **역할**: Flutter 프론트엔드 개발 · UI/UX 구현 · API 연동 · Android APK 빌드 및 iOS 실행 환경 구성
+* **역할**: 앱 아이디어 및 기획 · Flutter 프론트엔드 개발 · UI/UX 구현 · API 연동 · Android APK 빌드 및 iOS 실행 환경 구성
 * **성과**: [다운로드](APK_링크_넣기)
 * **담당 업무**:
 

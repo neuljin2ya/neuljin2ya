@@ -90,28 +90,22 @@
   - Flutter 기반 앱 화면 및 사용자 흐름 구현
    ---
   
-### 🔥 [Ember](https://github.com/neuljin2ya/ember-frontend) | 2026.03. - 2026.06.
+### 🔥 [쏘쓰](https://github.com/neuljin2ya/ssoss-client/tree/main/ssoss_flutter) | 2026.05. ~
 
-> 교환일기를 기반으로 사용자의 성향과 관계 형성 과정을 자연스럽게 연결하는 AI 소개팅 앱
+> 카페/베이커리 사장님을 위한 마케팅 콘텐츠 운영 서비스
 
 <br>
 <p>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white">
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
 </p>
 
-* **역할**: 앱 아이디어 및 기획 · Flutter 프론트엔드 개발 · UI/UX 구현 · API 연동 · Android APK 빌드 및 iOS 실행 환경 구성
-* **성과**: [다운로드](APK_링크_넣기)
-* **담당 업무**:
-
-  * 서비스 아이디어 기획 및 핵심 기능 정의
-  * 사용자 흐름을 고려한 UI/UX 설계 및 화면 디자인
-  * Flutter 기반 모바일 앱 전체 프론트엔드 개발
-  * 일기 작성, AI 분석 결과, 매칭 및 교환일기 기능 구현
-  *  채팅, 알림, 마이페이지 등 주요 서비스 화면 개발
-  *   REST API 연동 및 데이터 처리 로직 구현
-  *   Android APK 빌드 및 iOS 실행 환경 구성 및 테스트
+* **역할**:  Flutter 프론트엔드 개발 · API 연동 
+* **성과**:
+  - Google Play Store 출시
+  - App Store 출시 
+- **담당 업무**:
+  - Flutter 기반 앱 화면 및 사용자 흐름 구현
 
   ---
 
@@ -144,6 +138,7 @@
 | Project | 기간 | 담당 기술 | 성과 | 주요 기능 |
 | :--- | :---: | :--- | :--- | :--- |
 | **[Matcher](https://github.com/neuljin2ya/matcher.git)** | `25.09. - 25.12.` | <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img alt="Gemini" src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white"/> | [제13회 빅콘테스트 2025 AI·데이터 경진대회 공모전 제출](https://www.bigcontest.or.kr) | 소상공인 데이터와 유튜버 채널 데이터를 기반으로 한 AI 매칭 및 추천 |
+| **[Ember](https://github.com/neuljin2ya/ember-frontend)** | `26.03. - 26.06.` | <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"> | 가천대학교 컴퓨터공학과 졸업프로젝트 | 교환일기 작성·AI 분석을 기반으로 한 사용자 매칭 및 교환일기·채팅 |
 | **[PhoPo](https://github.com/neuljin2ya/PhoPo)** | `26.04.` | <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/> <img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-0A84FF?style=flat-square&logo=apple&logoColor=white"/><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"> | iOS 개인 프로젝트 | 위치 기반 추억 기록, 지도 하이라이트, 카드형 데이터 저장 |
 | **[FocusBraker](https://github.com/neuljin2ya/FocusBraker)** | `26.04.` | <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/> | [연합동아리 프로젝트 출품](https://likelion.community/hall-of-fame/animal-league-1st/0f03abbb-d88c-4ae1-b93e-0229ba740863) | 오버레이 기반 집중 방해 인터랙션 및 세션 리포트 제공 |
 | **[파쿠루트](https://github.com/neuljin2ya/NTeam_FrontEnd)** | `26.05.` | <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/> | 10th NE(O)RDINARY HACKATHON 대상 | 파쿠르 스팟 탐색, 난이도·환경 기반 장소 정보 공유, 실시간 상태 및 영상 업로드 기능 |

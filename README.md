@@ -90,11 +90,9 @@
   - Flutter 기반 앱 화면 및 사용자 흐름 구현
    ---
   
-### 🔥 [쏘쓰](https://github.com/neuljin2ya/ssoss-client/tree/main/ssoss_flutter) | 2026.05. ~
+### 🪄[쏘쓰](https://github.com/neuljin2ya/ssoss-client/tree/main/ssoss_flutter) | 2026.05. ~
 
 > 카페/베이커리 사장님을 위한 마케팅 콘텐츠 운영 서비스
-
-<br>
 <p>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white">
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white">

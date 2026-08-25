@@ -101,7 +101,7 @@
 * **역할**:  Flutter 프론트엔드 개발 · API 연동 
 * **성과**:
   - Google Play Store 출시
-  - App Store 출시 ([다운로드]https://apps.apple.com/kr/app/%EC%8F%98%EC%93%B0-%EC%82%AC%EC%9E%A5%EB%8B%98%EC%9D%84-%EC%9C%84%ED%95%9C-ai-%EC%BD%98%ED%85%90%EC%B8%A0-%EC%83%9D%EC%84%B1-%EC%84%9C%EB%B9%84%EC%8A%A4/id6788269957)
+  - App Store 출시 ([다운로드](https://apps.apple.com/kr/app/%EC%8F%98%EC%93%B0-%EC%82%AC%EC%9E%A5%EB%8B%98%EC%9D%84-%EC%9C%84%ED%95%9C-ai-%EC%BD%98%ED%85%90%EC%B8%A0-%EC%83%9D%EC%84%B1-%EC%84%9C%EB%B9%84%EC%8A%A4/id6788269957)
 - **담당 업무**:
   - Flutter 기반 앱 화면 및 사용자 흐름 구현
 

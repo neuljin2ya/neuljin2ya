@@ -107,27 +107,29 @@
 
   ---
 
- ### ✏️ [Palearn](https://github.com/Palearn-4-P-proj/Palearn-app) | 2025.08. - 2025.12.
+### 🔮 SELLUNE | 2026.07. ~ 2026.09.
+> SNS 기반 소셜셀러의 예약·결제·고객 관리를 하나의 흐름으로 연결한 예약 관리 서비스
 
-> 학습 계획을 쉽게 세우고, 실행까지 이어지도록 돕는 AI 기반 학습 관리 앱
-
-<br>
 <p>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white">
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white">
 </p>
 
-- **역할**: 앱 기획 · UI/UX 디자인 · 프론트 개발   
-- **성과**: [2025-2] 진로탐색학점제 P-커리어캐치II 우수 수료자  
-- **배포 링크**: [바로가기](https://palearn-final-app-3.vercel.app)  
-- **담당 업무**:  
-  - 단계별 선택 기반 학습 계획 생성 UI 설계  
-  - Daily / Weekly / Monthly 단위 계획 관리 기능 구현  
-  - 학습 진행률 시각화 (퍼센트, 완료 개수 등)  
-  - 캘린더 기반 학습 기록 히스토리 UI 구현  
-  - 친구 코드 기반 소셜 기능 (진행 상황 공유)  
-  - FastAPI 기반 인증 및 데이터 API 연동  
+- **역할**: 서비스 기획 및 Flutter 프론트엔드 개발
+- **성과**:
+  - 미래내일 일경험 프로젝트형에서 기업 연계 과제 해결 및 MVP 구현
+  - 결제 서비스 **바이올렛페이 P3** 연계
+  - 고객용 서비스: [바로가기](https://sellune.pages.dev/#/customer)
+  - 셀러용 서비스: [바로가기](https://sellune.pages.dev/#/seller)
+    - Demo ID: `010-9999-0000`
+    - Demo PW: `Password123!`
+
+- **담당 업무**:
+  - 소셜셀러 대상 인터뷰 및 예약·결제 과정의 문제 정의
+  - 고객의 예약·결제·변경 흐름 설계
+  - 셀러의 예약 승인, 타임테이블, 공지 및 고객 관리 기능 기획
+  - Flutter 기반 고객용 및 셀러용 주요 화면 구현
+
   ---
 
   
@@ -135,6 +137,7 @@
 
 | Project | 기간 | 담당 기술 | 성과 | 주요 기능 |
 | :--- | :---: | :--- | :--- | :--- |
+| **[Palearn](https://github.com/Palearn-4-P-proj/Palearn-app)** | `25.08. - 25.12.` | <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"> | 2025-2 진로탐색학점제 P-커리어캐치II 우수 수료자 · [서비스 배포](https://palearn-final-app-3.vercel.app) | AI 기반 학습 계획 생성, 캘린더 기반 학습 기록, 학습 진행률 시각화 및 친구 코드 기반 소셜 기능 |
 | **[Matcher](https://github.com/neuljin2ya/matcher.git)** | `25.09. - 25.12.` | <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img alt="Gemini" src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white"/> | [제13회 빅콘테스트 2025 AI·데이터 경진대회 공모전 제출](https://www.bigcontest.or.kr) | 소상공인 데이터와 유튜버 채널 데이터를 기반으로 한 AI 매칭 및 추천 |
 | **[Ember](https://github.com/neuljin2ya/ember-frontend)** | `26.03. - 26.06.` | <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"> | 가천대학교 컴퓨터공학과 졸업프로젝트 | 교환일기 작성·AI 분석을 기반으로 한 사용자 매칭 및 교환일기·채팅 |
 | **[PhoPo](https://github.com/neuljin2ya/PhoPo)** | `26.04.` | <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/> <img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-0A84FF?style=flat-square&logo=apple&logoColor=white"/><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"> | iOS 개인 프로젝트 | 위치 기반 추억 기록, 지도 하이라이트, 카드형 데이터 저장 |
